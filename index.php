@@ -10098,7 +10098,7 @@
                                             <div class="elementor-element elementor-element-c84e276 elementor-widget__width-auto elementor-mobile-align-left elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button" data-id="c84e276" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
-                                                        <a class="elementor-button elementor-button-link elementor-size-sm" href="https://templatekit.tokomoo.com/burgerkit2/homepage/">
+                                                        <a class="elementor-button elementor-button-link elementor-size-sm" href="#/">
                                                             <span class="elementor-button-content-wrapper">
                                                                 <span class="elementor-button-text">Home</span>
                                                             </span>
